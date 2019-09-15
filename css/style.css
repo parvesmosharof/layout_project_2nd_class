@@ -1,0 +1,144 @@
+body{
+	margin: 0 auto;
+}
+
+.main_container{
+
+background: white;
+
+margin: auto;
+
+width: 100%;
+}
+
+
+.header{height: 40px;margin: 30px 25px;}
+
+.logo{
+
+display: inline-block;
+}
+
+.logo img{
+	
+}
+
+.menu{
+
+float: right;
+}
+
+.menu ul{list-style: none;}
+
+.menu ul li{
+	
+float: left;
+	
+padding-left: 100px;
+	
+color: #7F7F7F;
+} 
+
+.menu ul li a{}
+
+.banner{
+}
+
+.banner img{
+	
+width: 1295px;
+	
+margin: 25px 25px;
+}
+
+.container_section{
+
+}
+
+
+.container{
+
+background: white;
+
+width: 1100px;
+
+height: 1350px;
+
+margin: auto;
+}
+
+.PHOTODIARY{
+
+padding: 10px;
+
+margin-bottom: 50px;
+}
+
+p{
+
+color: #CAC5BB;
+
+margin: 30px 0px;
+}
+
+h1{
+
+color: #626262;
+}
+
+.lifeStyle{
+
+float: left;
+
+width: 33.33%;
+
+padding: 10px;
+
+box-sizing: border-box;
+}
+
+.lifeStyle img{display: block;max-width: 100%;}
+
+
+.footer{
+	margin-top: 100px;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	padding: 20px 0px;
+	box-sizing: border-box;
+	background-color: #F0F0F0;
+}
+
+.inner_footer{
+	display: block;
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.footer_third{
+	text-decoration: none;
+	display: inline-block;
+}
+
+.footer_third a{
+	color: black;
+	text-transform: none;
+	text-decoration: none;
+}
+
+.footer_right{
+	float: right;
+	margin: -20px -40px;
+}
+
+.footer_right h5{
+	color: black;
+	display: inline-block;
+}
+
+.footer_right a{padding-left: 15px;}
+
+.footer_right a i{
+	
+}
